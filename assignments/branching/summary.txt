@@ -3,3 +3,5 @@ They might also edited the same file as you are editing.
 Hence, to avoid conflicting merges, branching is needed.
 
 So when you need to edit a file, make sure to create a branch from master.
+
+Checkout your branch, edit your files, then commit them, and push.
