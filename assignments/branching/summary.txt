@@ -1,3 +1,5 @@
 Yeah basically we wanted to avoid merging directly to master, because some other people might also doing some changes to the repo that might affect you.
 They might also edited the same file as you are editing.
 Hence, to avoid conflicting merges, branching is needed.
+
+So when you need to edit a file, make sure to create a branch from master.
